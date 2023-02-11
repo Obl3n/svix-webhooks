@@ -2989,6 +2989,7 @@
                     400,
                     500
                 ],
+                "nullable": true,
                 "title": "StatusCodeClass",
                 "type": "integer",
                 "x-enum-varnames": [
