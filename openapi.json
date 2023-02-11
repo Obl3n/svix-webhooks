@@ -2734,6 +2734,7 @@
                     2,
                     3
                 ],
+                "nullable": true,
                 "title": "MessageStatus",
                 "type": "integer",
                 "x-enum-varnames": [
